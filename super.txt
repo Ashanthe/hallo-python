@@ -1,0 +1,2 @@
+Ik vind het interessant dat je audio kan lezen, en het signaal kan aanpassen doormiddel van Python. Dynamic range compression en geluid aanpassen met Python.
+
